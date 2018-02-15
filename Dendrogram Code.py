@@ -155,6 +155,9 @@ def plot_nx(x, plot_connectors=True, highlight_connectors=None, prog='dot'):
 #For the diagrams used in Felsenberg et al., 2018, we used the neato algorithm. For more information 
 #on neato vs dot vs fdp, see https://www.graphviz.org/
 
+#For large neurons, note that the neato algorithm will rarely produce the same layout - a certain number
+#of configurations exist within the plotting space and each iteration of the algorithm restarts the configuration.
+
 plot_nx(Neuron_2, plot_connectors = True, highlight_connectors = Neuron_1_to_Neuron_2, prog = 'neato')
 plt.savefig('Neuron_2_with_Neuron_1_connectors.svg') 
 
