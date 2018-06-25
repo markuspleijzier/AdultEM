@@ -1,3 +1,13 @@
+import plotly as py
+from plotly.graph_objs import *
+from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
+init_notebook_mode(connected = True)
+
+import pymaid 
+import networkx as nx
+import matplotlib.pyplot as plt
+import time
+
 def plot_nx_plotly(z, plot_connectors = True, highlight_connectors = None, prog = 'dot', inscreen = True, filename = 'name'):
     
     """This plots an interactive dendrogram so that specific treenode and connector_ids can be examined
