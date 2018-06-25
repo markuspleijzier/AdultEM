@@ -74,7 +74,16 @@ Now import the packages required to render the static dendrograms
 **SIMPLY COPY AND PASTE THE FUNCTION INTO YOUR PYTHON ENVIRONMENT (LINE/CELL) AND RUN IT**
 		
 		>>> plot_nx_plotly(z, prog = 'dot', plot_connectors = True, highlight_connectors = none, inscreen = True)
-		
+
+## Example Rendering
+
+Screenshot of an interactive dendrogram of a VM2 neuron using dot rendering. Run the code to see for yourself!
+![](https://github.com/markuspleijzier/AdultEM/blob/master/Dendrogram_code/Interactive_Dendrograms/VM2_neuron_interative_dot.png)
+
+
+Screenshot of an interactive dendrogram of a VM2 neuron using neato rendering.
+![](https://github.com/markuspleijzier/AdultEM/blob/master/Dendrogram_code/Interactive_Dendrograms/VM2_neuron_interactive_neato.png)
+
 ## Acknowledgements
 
 This code was written by Markus Pleijzier, Drosophila Connectomics WT UK Team, Department of Zoology, University of Cambridge.
