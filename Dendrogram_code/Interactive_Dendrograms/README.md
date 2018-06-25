@@ -40,8 +40,6 @@ First, set up the offline version by running the following code in your python e
 		
 		>>> from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 		
-		>>> from mpl_toolkits.mplot3d import Axes3D
-		
 		>>> init_notebook_mode(connected = True)
 		
 		
