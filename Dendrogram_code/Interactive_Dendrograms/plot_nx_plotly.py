@@ -13,6 +13,7 @@ def plot_nx_plotly(z, plot_connectors = True, highlight_connectors = None, prog 
             Postsynapses are Blue
     
             highlight_connectors : A list of connector_ids that are of interest (CoIs = connectors of interest).
+            e.g. HCs = [Connector_id1, Connector_id2, etc.]
             
             These will be larger than the other connectors and in purple
     
@@ -212,8 +213,6 @@ def plot_nx_plotly(z, plot_connectors = True, highlight_connectors = None, prog 
                     HC_trace_info = 'CoI: {}, treenode id: {}'.format(z.connectors[z.connectors.treenode_id==node].connector_id.values[0],node)
                     HC_trace['text'].append(HC_trace_info)
                         
-    
-    VM2_neuron.connectors[VM2_neuron.connectors.treenode_id == 585959].connector_id.values[0]
     
     print('Creating Plotly Graph')
     
