@@ -22,6 +22,8 @@ is approximated. This is approximated by taking a treenode_id and finding the eu
 For treenodes that do not have a connector, their radii remain at -0.01. For each segment, the radius associated with the start node
 is used for the entire segment.
 
+All negative radii values are multiplied by -1. 
+
 If we have the geodesic length of each segment and the radius associated with the start node of each segment, then we can
 model each segment as a cylinder. The function then calculates the surface area and the cross sectional area (at the start node)
 of each segment.
