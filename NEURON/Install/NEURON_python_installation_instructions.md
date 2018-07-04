@@ -61,7 +61,7 @@ simply use your version numbers instead of 19 & 7.6.
 
     $ cd $N/nrn-7.5
 
-    $ ./configure --prefix=’/Users/name/neuron/’ --with-iv=’/Users/name/neuron/iv-19’ --with-nrnpython
+    $ ./configure --prefix=’/Users/name/neuron/’ --with-iv=/Users/name/neuron/iv-19 --with-nrnpython
     
     
 
