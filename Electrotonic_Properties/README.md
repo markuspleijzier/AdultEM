@@ -1,7 +1,7 @@
 <h1>Electrotonic Properties Dataframe Function</h1>
 
 The goal of this function is to provide a dataframe with parameters to
-begin modelling steady-state electrical properties of neurons. There are a number of assumptions,
+begin modelling steady-state electrical properties of CATMAID neurons. There are a number of assumptions,
 noted explicitly here, required to take a CATMAID neuron and begin modelling its electrical properties. 
 
 **It is highly recommended that you read Signal Propagation in Drosophila Central Neurons, Gouwens & Wilson (2009)
