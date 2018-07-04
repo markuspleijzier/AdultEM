@@ -109,3 +109,6 @@ A NEURON & Python tutorial is available at
 https://neuron.yale.edu/neuron/static/docs/neuronpython/firststeps.html#
 
 
+<h2>Acknowledgements</h2> 
+
+These instructions were written by Markus Pleijzier, Drosophila Connectomics WT Team, Department of Zoology, University of Cambridge
