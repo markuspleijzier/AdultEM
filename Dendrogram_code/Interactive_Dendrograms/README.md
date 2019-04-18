@@ -82,6 +82,11 @@ Screenshot of an interactive dendrogram of a VM2 neuron using dot rendering. Run
 Screenshot of an interactive dendrogram of a VM2 neuron using neato rendering.
 ![](https://github.com/markuspleijzier/AdultEM/blob/master/Dendrogram_code/Interactive_Dendrograms/VM2_neuron_interactive_neato.png)
 
+
+## A new function as of April 2019, is plotting the nodes which are in a particular volume, using the in_volume argument
+
+Better documentation to come soon!
+
 ## Acknowledgements
 
 This code was written by Markus Pleijzier, Drosophila Connectomics WT UK Team, Department of Zoology, University of Cambridge.
