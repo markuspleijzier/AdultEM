@@ -145,6 +145,6 @@ and by Philipp Schlegel, Drosophila Connectomics WT Team, Department of Zoology,
 Cambridge. This code was used to generate figures 4D and 4F in:
 
 
-Felsenberg et al., 2018, **Integration of Parrallel Opposing Memories Underlies Memory Extinction**, *Cell*
+Felsenberg et al., 2018, **[Integration of Parrallel Opposing Memories Underlies Memory Extinction](https://doi.org/10.1016/j.cell.2018.08.021)**, *Cell*
 
 <h2>**Please cite the above paper when using this code**</h2>
