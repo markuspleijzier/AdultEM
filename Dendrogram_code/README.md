@@ -142,4 +142,6 @@ overestimations and underestimations of the actual distance between certain node
 <h2>Acknowledgments</h2>
 This code was written by Markus Pleijzier, Drosophila Connectomics WT Team, Department of Zoology, University of Cambridge
 and by Philipp Schlegel, Drosophila Connectomics WT Team, Department of Zoology, University of Cambridge & Jefferis Lab, Laboratory of Molecular Biology,
-Cambridge. This code was used to generate figures in Felsenberg et al., (2018) Integration of Parrallel Opposing Memories Underlies Memory Extinction, Cell. Please cite this paper when using this code.
+Cambridge. This code was used to generate figures in Felsenberg et al., (2018) **Integration of Parrallel Opposing Memories Underlies Memory Extinction**, *Cell*. 
+
+<h2>**Please cite this paper when using this code.**</h2>
