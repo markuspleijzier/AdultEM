@@ -144,4 +144,4 @@ This code was written by Markus Pleijzier, Drosophila Connectomics WT Team, Depa
 and by Philipp Schlegel, Drosophila Connectomics WT Team, Department of Zoology, University of Cambridge & Jefferis Lab, Laboratory of Molecular Biology,
 Cambridge. This code was used to generate figures in Felsenberg et al., (2018) **Integration of Parrallel Opposing Memories Underlies Memory Extinction**, *Cell*. 
 
-<h2>**Please cite this paper when using this code.**</h2>
+<h2>**Please cite the above paper when using this code.**</h2>
